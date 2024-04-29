@@ -1,5 +1,6 @@
-# https://github.com/pages-themes/time-machine?tab=readme-ov-file
-remote_theme: pages-themes/time-machine@v0.2.0
+# https://github.com/pages-themes/merlot?tab=readme-ov-file
+remote_theme: pages-themes/merlot@v0.2.0
+markdown: kramdown
 plugins:
   - jekyll-remote-theme
   - jekyll-sitemap
