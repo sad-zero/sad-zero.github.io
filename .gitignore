@@ -179,3 +179,4 @@ Cargo.lock
 
 # End of https://www.toptal.com/developers/gitignore/api/rust,rubymine+all
 Gemfile.lock
+_site/
