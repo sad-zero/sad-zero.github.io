@@ -1,3 +1,10 @@
-theme: jekyll-theme-minimal
+# https://github.com/pages-themes/merlot?tab=readme-ov-file
+remote_theme: pages-themes/merlot@v0.2.0
+markdown: kramdown
+plugins:
+  - jekyll-remote-theme
+  - jekyll-sitemap
+
+url: sad-zero.github.io
 title: Sad Zero's Blog
 description: The flower snow is flying
